@@ -1,0 +1,14 @@
+1 page (1 recto) par proposition. Incluant :
+
+- Description
+En quelques lignes, description de la proposition : en quoi elle consiste, ce qu'elle fait dans la simulation.
+
+- Modélisation
+Expliquer ici sur qui cet ajout a un impact (sur Gus, sur le PNJ, etc.), initié par qui (Gus, PNJ, etc.). Soit un graphe d'influence, soit une explication. Précisez s'il s'agit d'une nouvelle dimension, ou de l'étoffement d'une fonctionnalité.
+/!\ Attention aux erreurs de conception/modélisation, en cas de doute je peux vérifier avec vous !
+
+- Apport pour la simulation
+Décrivez, justifiez, argumentez, l'apport de cette proposition pour la simulation. Ici, vous devrez convaincre que votre choix apporte de l'intelligence, et qu'il est original (si c'est le cas).
+
+- Test dans la simulation
+Indiquez la façon dont cette proposition peut être testée. En d'autres termes, décrivez ce que je dois faire dans la simulation pour voir cette proposition en action : par exemple, s'il s'agit d'une dimension qui fluctue, indiquez-moi quelles actions effectuer pour que je puisse faire varier cette dimension.
